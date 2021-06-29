@@ -10,7 +10,7 @@ sections:
       you’re just starting out or looking to scale, we can help!
 
     actions:
-      - label: APPLY NOW
+      - label: BOOK A FREE CONSULTATION
         url: /features
         style: primary
     image: images/superb-neptune.png
