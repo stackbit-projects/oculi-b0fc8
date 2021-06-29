@@ -30,8 +30,7 @@
                 "type": "footer_text",
                 "image": "images/oculi350x100-weiss.png",
                 "image_url": "/",
-                "image_alt": "Footer logo",
-                "content": "OculiMedia - 2021\n"
+                "image_alt": "Footer logo"
             },
             {
                 "type": "footer_nav",
