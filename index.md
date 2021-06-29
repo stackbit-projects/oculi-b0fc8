@@ -69,6 +69,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/3.jpg
     type: section_features
   - section_id: call-to-action
     type: section_cta
