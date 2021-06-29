@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: Why Marketing is important for OnlyFans Content Creator
 subtitle: A story about customer loyalty
 author: _data/authors/jane-doe.yaml
 excerpt: >-
