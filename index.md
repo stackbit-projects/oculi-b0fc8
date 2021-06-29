@@ -13,7 +13,7 @@ sections:
       OculiMedia is here to help you generate the most amount of income through
       your OnlyFans platform on a monthly basis.
     actions:
-      - label: Apply Now
+      - label: APPLY NOW
         url: /features
         style: primary
     image: images/superb-neptune.png
