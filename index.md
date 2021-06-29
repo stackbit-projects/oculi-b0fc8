@@ -39,11 +39,10 @@ sections:
         content: >
           With our marketing plans and strategies, we enable you to get your
           content seen by the right audience, at the right time, which drives
-          new subscribers to your content and monetization platform.
-
-
-          There is no magic bullet for growing a loyal audience. Our custom
-          strategies are tailored specifically to each client.
+          new subscribers to your content and monetization platform. Our custom
+          strategies are tailored specifically to each client and focus on
+          growing your account as well as keeping the amount of fans and
+          managing a high retention rate.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
