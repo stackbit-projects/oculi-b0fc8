@@ -100,7 +100,7 @@
                 ]
             }
         ],
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Terms of Service",
