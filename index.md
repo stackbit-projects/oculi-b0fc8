@@ -52,8 +52,8 @@ sections:
     type: section_cta
     title: Do you want to work with us?
     subtitle: >-
-      Then do it! Just hand in fill out the application formular and we will
-      contact you back as soon as possible!
+      Ready jump on a call or feel more comfortable over chat? Just let us know
+      and fill out the form!
     actions:
       - label: BOOK A FREE CONSULTATION
         url: /signup
