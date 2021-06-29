@@ -67,7 +67,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     faq_items:
-      - question: Di y
+      - question: Do
         answer: >-
           ## Lorem ipsum
 
