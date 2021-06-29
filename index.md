@@ -38,7 +38,7 @@ sections:
         actions: []
         type: feature_item
         image: images/10.jpg
-      - title: lorem-ipsum
+      - title: Account Growth
         content: >-
           ## Lorem ipsum
 
