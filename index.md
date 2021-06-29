@@ -67,12 +67,6 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     faq_items:
-      - question: Do you have case studies?
-        answer: >
-          Due to our contractually binding confidentiality agreement with all
-          our clients we do not share case studies with new or potential
-          clients.
-        type: faq_item
       - answer: >
           Many of our clients at OwnlyFans are just starting out and haven’t
           landed a single subscriber yet. In these cases we strongly suggest
@@ -81,6 +75,12 @@ sections:
           larger sum in a fully managed approach.
         type: faq_item
         question: 'I have zero OnlyFans subscribers, is your service right for me?'
+      - question: Do you have case studies?
+        answer: >
+          Due to our contractually binding confidentiality agreement with all
+          our clients we do not share case studies with new or potential
+          clients.
+        type: faq_item
     type: section_faq
 seo:
   title: OculiMedia - Marketing with No-Bullshit Guarantee
