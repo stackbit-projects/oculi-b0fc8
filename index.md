@@ -75,12 +75,6 @@ sections:
           larger sum in a fully managed approach.
         type: faq_item
         question: 'I have zero OnlyFans subscribers, is your service right for me?'
-      - question: Do you have case studies?
-        answer: >
-          Due to our contractually binding confidentiality agreement with all
-          our clients we do not share case studies with new or potential
-          clients.
-        type: faq_item
       - question: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -95,6 +89,12 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+        type: faq_item
+      - question: Do you have case studies?
+        answer: >
+          Due to our contractually binding confidentiality agreement with all
+          our clients we do not share case studies with new or potential
+          clients.
         type: faq_item
     type: section_faq
 seo:
