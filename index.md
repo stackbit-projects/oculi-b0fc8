@@ -30,7 +30,7 @@ sections:
     background: gray
     title: Latest Posts
   - section_id: Features
-    title: Features
+    title: Services
     subtitle: lorem-ipsum
     background: gray
     features:
