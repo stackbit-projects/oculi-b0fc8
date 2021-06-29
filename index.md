@@ -67,7 +67,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     faq_items:
-      - question: Do
+      - question: Do you have case studies?
         answer: >-
           ## Lorem ipsum
 
