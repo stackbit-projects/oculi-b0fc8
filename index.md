@@ -16,7 +16,7 @@ sections:
     image: images/superb-neptune.png
   - section_id: Features
     title: Services
-    subtitle: Our services
+    subtitle: What services do we actually provide?
     background: gray
     features:
       - title: Content Creation
