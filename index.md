@@ -80,6 +80,7 @@ sections:
           investment in order to test initial strategies before investing a
           larger sum in a fully managed approach.
         type: faq_item
+        question: 'I have zero OnlyFans subscribers, is your service right for me?'
     type: section_faq
 seo:
   title: OculiMedia - Marketing with No-Bullshit Guarantee
