@@ -31,17 +31,9 @@ sections:
         type: feature_item
         image: images/11_thumb.jpg
       - title: Brand and Account Management
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We take care of all of it and you can outsource the whole process to
+          us, from creative direction to engaging with your OnlyFans audience.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
