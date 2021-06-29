@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: "We build a foundation\_to build momentum"
+    title: We build a FOUNDATION to build MOMENTUM
     content: >
       Operating globally, we work with models to generate revenue through
       OnlyFans and other subscription platforms.
