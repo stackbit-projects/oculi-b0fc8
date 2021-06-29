@@ -11,7 +11,7 @@ thumb_image_alt: A group of people working in a cafe
 image: images/3.jpg
 image_alt: A group of people working in a cafe
 seo:
-  title: Customer Loyalty Programs That Stick
+  title: How To Market OnlyFans - OculiMedia
   description: >-
     A story about customer loyalty curabitur sed consectetur nisi. Integer sit
     amet commodo massa.
