@@ -38,11 +38,6 @@
                 "title": "Company",
                 "nav_links": [
                     {
-                        "label": "Pricing",
-                        "url": "/blog",
-                        "style": "link"
-                    },
-                    {
                         "label": "Blog",
                         "url": "/signup",
                         "style": "link"
