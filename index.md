@@ -6,8 +6,8 @@ sections:
     image_alt: App preview
     title: "We build a foundation\_to build momentum"
     content: >
-      Operating globally, we work with models, influencers and individuals to
-      generate revenue through OnlyFans and other subscription platforms.
+      Operating globally, we work with models to generate revenue through
+      OnlyFans and other subscription platforms.
 
 
       OculiMedia is here to help you generate the most amount of income through
