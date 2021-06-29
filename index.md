@@ -64,7 +64,7 @@ sections:
     title: Latest Posts
 seo:
   title: OculiMedia - Marketing with No-Bullshit Guarantee
-  description: Professional Adult ModelManagement
+  description: The Professional Adult Modeling Agency
   extra:
     - name: 'og:type'
       value: website
