@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/kareya-saleh-tLKOj6cNwe0-unsplash.jpg
     image_alt: App preview
     title: "We build a foundation\_to build momentum"
     content: >
