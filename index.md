@@ -73,17 +73,12 @@ sections:
           our clients we do not share case studies with new or potential
           clients.
         type: faq_item
-      - answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - answer: >
+          Many of our clients at OwnlyFans are just starting out and haven’t
+          landed a single subscriber yet. In these cases we strongly suggest
+          focusing on a growth strategy that employs a smaller initial
+          investment in order to test initial strategies before investing a
+          larger sum in a fully managed approach.
         type: faq_item
     type: section_faq
 seo:
