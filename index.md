@@ -17,55 +17,6 @@ sections:
         url: /features
         style: primary
     image: images/superb-neptune.png
-  - section_id: features
-    type: section_features
-    background: gray
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    features:
-      - title: Content Creation
-        image: images/feature1.png
-        image_alt: App preview on a phone and tablet
-        content: >
-          We guide you through the process of starting your account on OnlyFans,
-          whether that’s creative ideas, examples or post schedules.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: Brand and Account Management
-        image: images/feature2.png
-        image_alt: App users welcoming a new member
-        content: >+
-          We take care of all of it and you can outsource the whole process to
-          us, from creative direction to engaging with your OnlyFans audience.
-
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: Account Growth
-        image: images/feature3.png
-        image_alt: App user profile preview
-        content: >
-          With our marketing plans and strategies, we enable you to get your
-          content seen by the right audience, at the right time, which drives
-          new subscribers to your content on OnlyFans.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
   - section_id: reviews
     type: section_reviews
     background: white
