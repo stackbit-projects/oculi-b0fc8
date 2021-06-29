@@ -64,7 +64,7 @@ sections:
     title: Latest Posts
   - section_id: Frequently Asked Questions
     title: Frequently Asked Questions
-    subtitle: lorem-ipsum
+    subtitle: The most frequently asked questions about our agency answered!
     background: gray
     faq_items:
       - answer: >
