@@ -50,11 +50,13 @@ The platform is subscription-based, which means you can charge users a monthly f
 
 Although OnlyFans is conceived as a mix of Patreon, Twitter and Instagram, most marketers are unaware of its true potential. It is known for its adult content but its use by content creators in other genres such as modeling, physical fitness, games, entertainment and cryptocurrencies. I believe it will only become mainstream when adventurous brands advertise there.
 
-Scott Hastings, co-founder of Betworthy, says that only fans are an interesting subject because it's such a divided base. Some love them, while others do not see the meaning of their existence.
+Scott Hastings, co-founder of Betworthy, says that OnlyFans 
+
+ are an interesting subject because it's such a divided base. Some love them, while others do not see the meaning of their existence.
 
 For advertisers, the reach potential is important, but more important is the type of audience that is part of a particular source. If Gatorade advertises better on ESPN than CNN, their target market for CNN will be higher than the coverage on ESPN.
 
-Only fans have a huge user base, but they don't come to the market. They are not in a state of mind where they think about ads before buying.
+OnlyFans have a huge user base, but they don't come to the market. They are not in a state of mind where they think about ads before buying.
 
 If your brand has a negative outlook, people will find that you advertise on an adult site. No matter how hard OnlyFans try to act as a social media platform, they are nothing more than a porn site. For this reason, I see no marketing opportunity for brands in such a small niche.
 
