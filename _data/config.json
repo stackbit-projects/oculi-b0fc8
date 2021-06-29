@@ -28,7 +28,6 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/oculi350x100-weiss.png",
                 "image_url": "/",
                 "image_alt": "Footer logo"
             },
