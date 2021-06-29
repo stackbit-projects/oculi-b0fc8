@@ -55,7 +55,7 @@ sections:
       Then do it! Just hand in fill out the application formular and we will
       contact you back as soon as possible!
     actions:
-      - label: APPLY NOW
+      - label: BOOK A FREE CONSULTATION
         url: /signup
         style: primary
   - section_id: recent-posts
