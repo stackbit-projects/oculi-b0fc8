@@ -63,7 +63,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: OculiMedia - Marketing with No-Bullshit Guarantee
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
