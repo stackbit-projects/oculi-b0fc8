@@ -6,9 +6,13 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: "We build a foundation\_to build momentum"
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Operating globally, we work with models, influencers and individuals to
+      generate revenue through OnlyFans and other subscription platforms.
+
+
+      OnlyStars Agency is here to help you generate the most amount of income
+      through your OnlyFans platform on a monthly basis.
     actions:
       - label: Learn More
         url: /features
