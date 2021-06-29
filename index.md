@@ -44,7 +44,7 @@ sections:
           new subscribers to your content and monetization platform. Our custom
           strategies are tailored specifically to each client and focus on
           growing your account as well as keeping the amount of fans and
-          managing a high retention rate.
+          managing a high retention rate to earn steady income long-term.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
