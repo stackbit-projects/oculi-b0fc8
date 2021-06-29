@@ -13,8 +13,8 @@ image_alt: A group of people working in a cafe
 seo:
   title: How To Market OnlyFans - OculiMedia
   description: >-
-    A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-    amet commodo massa.
+    A blogpost about the reason why it is essential to advertise your OnlyFans
+    Account.
   extra:
     - name: 'og:type'
       value: article
