@@ -11,8 +11,8 @@ sections:
       generate revenue through OnlyFans and other subscription platforms.
 
 
-      OnlyStars Agency is here to help you generate the most amount of income
-      through your OnlyFans platform on a monthly basis.
+      OculiMedia is here to help you generate the most amount of income through
+      your OnlyFans platform on a monthly basis.
     actions:
       - label: Learn More
         url: /features
