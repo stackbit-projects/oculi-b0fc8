@@ -5,13 +5,10 @@ sections:
     type: section_hero
     image_alt: App preview
     title: We build a FOUNDATION to build MOMENTUM
-    content: >
-      Operating globally, we work with models to generate revenue through
-      OnlyFans and other subscription platforms.
+    content: >+
+      We help creators in the adult-industry grow their subscriber base. Whether
+      you’re just starting out or looking to scale, we can help!
 
-
-      OculiMedia is here to help you generate the most amount of income through
-      your OnlyFans platform on a monthly basis.
     actions:
       - label: APPLY NOW
         url: /features
