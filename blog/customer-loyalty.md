@@ -4,7 +4,7 @@ subtitle: A story about the importance of marketing
 author: _data/authors/jane-doe.yaml
 excerpt: >-
   In this article we will go over the importance of marketing and why it is
-  essential for OnlyFans content creators
+  essential for OnlyFans content creators.
 date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
