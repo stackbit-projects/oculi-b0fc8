@@ -35,7 +35,7 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "Navigation",
                 "nav_links": [
                     {
                         "label": "Blog",
