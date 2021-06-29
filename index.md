@@ -39,17 +39,10 @@ sections:
         type: feature_item
         image: images/10.jpg
       - title: Account Growth
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          With our marketing plans and strategies, we enable you to get your
+          content seen by the right audience, at the right time, which drives
+          new subscribers to your content on OnlyFans.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
