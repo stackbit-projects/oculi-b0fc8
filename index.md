@@ -21,8 +21,10 @@ sections:
     features:
       - title: Content Creation
         content: >
-          We guide you through the process of starting your account on OnlyFans,
-          whether that’s creative ideas, examples or post schedules.
+          We guide you through the process of starting your account on OnlyFans
+          and other monetizable platforms and assist you whether that’s creative
+          ideas, examples, post schedules or the content strategy to attract
+          more fans.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
