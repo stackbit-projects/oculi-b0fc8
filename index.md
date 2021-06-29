@@ -68,8 +68,8 @@ sections:
     background: gray
     faq_items:
       - answer: >
-          Many of our clients at OwnlyFans are just starting out and haven’t
-          landed a single subscriber yet. In these cases we strongly suggest
+          Many of our clients at OculiMedia are just starting out and haven’t
+          landed a single subscriber yet. In these cases, we strongly suggest
           focusing on a growth strategy that employs a smaller initial
           investment in order to test initial strategies before investing a
           larger sum in a fully managed approach.
