@@ -1,6 +1,6 @@
 {
     "title": "Azimuth",
-    "base_font": "nunito-sans",
+    "base_font": "fira-sans",
     "palette": "purple",
     "header": {
         "logo_img": "images/oculi350x100.png",
