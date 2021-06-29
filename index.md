@@ -28,10 +28,9 @@ sections:
       - title: Content Creation
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          We guide you through the process of starting your account on OnlyFans,
+          whether that’s creative ideas, examples or post schedules.
         actions:
           - label: Learn More
             url: /features
