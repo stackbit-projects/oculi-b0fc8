@@ -23,17 +23,9 @@ sections:
     background: gray
     features:
       - title: Content Creation
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We guide you through the process of starting your account on OnlyFans,
+          whether that’s creative ideas, examples or post schedules.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
