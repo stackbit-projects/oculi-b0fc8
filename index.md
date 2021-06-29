@@ -75,10 +75,7 @@ sections:
           larger sum in a fully managed approach.
         type: faq_item
         question: 'I have zero OnlyFans subscribers, is your service right for me?'
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        answer: >-
+      - answer: >-
           ## Lorem ipsum
 
 
