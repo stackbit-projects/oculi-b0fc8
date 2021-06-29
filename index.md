@@ -19,7 +19,7 @@ sections:
     image: images/superb-neptune.png
   - section_id: Features
     title: Services
-    subtitle: lorem-ipsum
+    subtitle: Our services
     background: gray
     features:
       - title: Content Creation
