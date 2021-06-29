@@ -64,7 +64,7 @@ sections:
     title: Latest Posts
 seo:
   title: OculiMedia - Marketing with No-Bullshit Guarantee
-  description: The preview of the Azimuth theme
+  description: Professional Adult ModelManagement
   extra:
     - name: 'og:type'
       value: website
