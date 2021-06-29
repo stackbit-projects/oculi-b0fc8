@@ -35,7 +35,7 @@ sections:
         actions: []
         type: feature_item
         image: images/10.jpg
-      - title: Account Growth
+      - title: Tailored Growth Plans
         content: >
           With our marketing plans and strategies, we enable you to get your
           content seen by the right audience, at the right time, which drives
