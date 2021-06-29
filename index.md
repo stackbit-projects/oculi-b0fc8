@@ -75,17 +75,11 @@ sections:
           larger sum in a fully managed approach.
         type: faq_item
         question: 'I have zero OnlyFans subscribers, is your service right for me?'
-      - answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - answer: >
+          During our call or chat our goal is to learn the best way to help you
+          achieve your goals with OnlyFans. If you have existing content you
+          would like us to assess and consult on during our session please
+          provide before-hand so we have ample time to review.
         type: faq_item
       - question: Do you have case studies?
         answer: >
