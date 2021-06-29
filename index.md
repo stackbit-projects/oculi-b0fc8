@@ -41,10 +41,10 @@ sections:
       - title: Brand and Account Management
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >+
+          We take care of all of it and you can outsource the whole process to
+          us, from creative direction to engaging with your OnlyFans audience.
+
         actions:
           - label: Learn More
             url: /features
