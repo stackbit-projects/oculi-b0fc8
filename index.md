@@ -11,7 +11,7 @@ sections:
 
     actions:
       - label: BOOK A FREE CONSULTATION
-        url: /features
+        url: 'https://forms.gle/oB6gkZnMEemnxEiN8'
         style: primary
     image: images/superb-neptune.png
   - section_id: Features
