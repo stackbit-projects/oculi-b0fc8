@@ -81,7 +81,7 @@ sections:
           would like us to assess and consult on during our session please
           provide before-hand so we have ample time to review.
         type: faq_item
-        question: How soon can we get started?
+        question: What does the consultation include?
       - question: Do you have case studies?
         answer: >
           Due to our contractually binding confidentiality agreement with all
