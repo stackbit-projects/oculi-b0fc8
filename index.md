@@ -73,7 +73,7 @@ seo:
       value: OculiMedia - Marketing with No-Bullshit Guarantee
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: The Professional Adult Modeling Agency
       keyName: property
     - name: 'og:image'
       value: images/hero.png
