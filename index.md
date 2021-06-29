@@ -73,10 +73,7 @@ sections:
           our clients we do not share case studies with new or potential
           clients.
         type: faq_item
-      - question: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        answer: >-
+      - answer: >-
           ## Lorem ipsum
 
 
