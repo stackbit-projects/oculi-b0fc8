@@ -51,7 +51,9 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Do you want to work with us?
-    subtitle: Just contact us and hand in your application. We will co
+    subtitle: >-
+      Then do it! Just hand in fill out the application formular and we will
+      contact you back as soon as possible!
     actions:
       - label: APPLY NOW
         url: /signup
