@@ -1,6 +1,6 @@
 ---
 title: Why Marketing is important for OnlyFans Content Creator
-subtitle: A story about customer loyalty
+subtitle: A story about the importance of marketing
 author: _data/authors/jane-doe.yaml
 excerpt: >-
   In this article we will go over the importance of marketing and why it is
