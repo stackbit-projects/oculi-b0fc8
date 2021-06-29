@@ -56,7 +56,7 @@ sections:
       and fill out the form!
     actions:
       - label: BOOK A FREE CONSULTATION
-        url: /signup
+        url: 'https://forms.gle/oB6gkZnMEemnxEiN8'
         style: primary
   - section_id: recent-posts
     type: section_posts
