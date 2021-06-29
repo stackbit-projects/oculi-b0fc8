@@ -51,7 +51,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Do you want to work with us?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Just contact us and hand in your application. We will co
     actions:
       - label: APPLY NOW
         url: /signup
