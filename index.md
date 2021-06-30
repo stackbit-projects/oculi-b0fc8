@@ -60,10 +60,6 @@ sections:
       - label: BOOK A FREE CONSULTATION
         url: 'https://forms.gle/oB6gkZnMEemnxEiN8'
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
   - section_id: Frequently Asked Questions
     title: Frequently Asked Questions
     subtitle: The most frequently asked questions about our agency answered!
