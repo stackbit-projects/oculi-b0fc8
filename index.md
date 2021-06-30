@@ -66,8 +66,8 @@ sections:
     background: gray
     faq_items:
       - answer: >
-          Many of our clients at OculiMedia are just starting out and haven’t
-          landed a single subscriber yet. In these cases, we strongly suggest
+          It does not matter if you have thousands of subscribers or not even a
+          single subscriber yet. If you just start out, we strongly suggest
           focusing on a growth strategy that employs a smaller initial
           investment in order to test initial strategies before investing a
           larger sum in a fully managed approach.
