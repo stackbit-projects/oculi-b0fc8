@@ -31,5 +31,61 @@ seo:
       relativeUrl: true
 layout: page
 ---
-No multi-million dollar company, no 30 different project managers that don't even know who their clients are. 
-OculiMedia is (at the moment) a one-man-band
+Don't make the mistake and think we are a so called "camgirl-studio". Because we are not.
+
+We are a marketing & management agency that focuses on working with adult-models.
+Also, we work together. There is no weird employer/employee relationship.
+We both have obligations to work together successfully. 
+
+But don't forget:
+
+*   We do NOT require a work schedule from you.
+
+*   We do NOT demand a minimum of workhours.
+
+*   We do NOT own your accounts.
+
+*   We do NOT own your content.
+
+*   We do NOT lock you into a contract where you can't get out.
+
+*   You are a freelancer, so work whenever you want and how many hours you want.
+
+*   You are a personal brand, we are a marketing agency. You own your accounts, forever.
+
+*   You perform in front of the camera, so you have the media rights for your content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
