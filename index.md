@@ -95,8 +95,9 @@ sections:
 seo:
   title: OculiMedia - The Marketing Agency For Adult Models
   description: >-
-    We help creators in the adult-industry grow their subscriber base. Whether
-    you’re just starting out or looking to scale, we can help!
+    The marketing agency for getting new fans, increasing subscribers,
+    increasing traffic, creating awareness and earning more, consistently and
+    long-term.
   extra:
     - name: 'og:type'
       value: website
