@@ -80,5 +80,6 @@
         ],
         "content": "&copy; OculiMedia & Stackbit - 2021. All rights reserved. "
     },
-    "domain": "https://oculimedia.de"
+    "domain": "https://oculimedia.de",
+    "favicon": "images/oculiprofilbild-400x400-invert.png"
 }
