@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: What are we?
 subtitle: Who are we?
 image: images/about.jpg
 image_alt: Team members in a conference room
