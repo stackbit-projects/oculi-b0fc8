@@ -32,7 +32,7 @@
                 "nav_links": [
                     {
                         "label": "What are we?",
-                        "url": "/signup",
+                        "url": "/about",
                         "style": "link"
                     },
                     {
