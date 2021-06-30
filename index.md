@@ -103,7 +103,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: OculiMedia - Marketing with No-Bullshit Guarantee
+      value: OculiMedia - The Marketing Agency For Adult Models
       keyName: property
     - name: 'og:description'
       value: The Professional Adult Modeling Agency
