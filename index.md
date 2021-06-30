@@ -109,7 +109,7 @@ seo:
       value: The Professional Adult Modeling Agency
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /_static/app-assets/oculi350x100.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
