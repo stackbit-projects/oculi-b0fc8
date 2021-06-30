@@ -120,7 +120,10 @@ seo:
     - name: 'twitter:title'
       value: OculiMedia - The Marketing Agency For Adult Models
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        The marketing agency for getting new fans, increasing subscribers,
+        increasing traffic, creating awareness and earning more, consistently
+        and long-term.
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
