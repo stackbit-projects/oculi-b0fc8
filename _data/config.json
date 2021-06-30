@@ -31,7 +31,7 @@
                 "title": "Navigation",
                 "nav_links": [
                     {
-                        "label": "Blog",
+                        "label": "What are we?",
                         "url": "/signup",
                         "style": "link"
                     },
