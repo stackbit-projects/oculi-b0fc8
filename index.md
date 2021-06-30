@@ -106,7 +106,10 @@ seo:
       value: OculiMedia - The Marketing Agency For Adult Models
       keyName: property
     - name: 'og:description'
-      value: The Professional Adult Modeling Agency
+      value: >-
+        The marketing agency for getting new fans, increasing subscribers,
+        increasing traffic, creating awareness and earning more, consistently
+        and long-term.
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/oculi350x100.png
