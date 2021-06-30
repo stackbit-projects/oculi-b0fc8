@@ -1,7 +1,7 @@
 ---
 title: What are we?
 subtitle: And what are we not?
-image: images/about.jpg
+image: images/11_thumb.jpg
 image_alt: Team members in a conference room
 seo:
   title: About Us
