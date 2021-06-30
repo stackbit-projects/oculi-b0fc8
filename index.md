@@ -93,7 +93,7 @@ sections:
         type: faq_item
     type: section_faq
 seo:
-  title: OculiMedia - Marketing with No-Bullshit Guarantee
+  title: OculiMedia - The Marketing Agency for Adult Models
   description: The Professional Marketing Agency for Adult Models
   extra:
     - name: 'og:type'
