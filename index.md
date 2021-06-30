@@ -73,12 +73,11 @@ sections:
           larger sum in a fully managed approach.
         type: faq_item
         question: 'I have zero OnlyFans subscribers, is your service right for me?'
-      - answer: >+
+      - answer: >
           During our call or chat our goal is to learn the best way to help you
-          achieve your goals with OnlyFans. If you have existing content you
-          would like us to assess and consult on during our session please
-          provide before-hand so we have ample time to review.
-
+          achieve your goals. If you have existing content you would like us to
+          assess and consult on during our session please provide it before-hand
+          so we have ample time to review.
         type: faq_item
         question: What does the consultation include?
       - question: Do you have case studies?
