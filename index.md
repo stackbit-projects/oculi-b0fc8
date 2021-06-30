@@ -13,7 +13,7 @@ sections:
       - label: BOOK A FREE CONSULTATION
         url: 'https://forms.gle/oB6gkZnMEemnxEiN8'
         style: primary
-    image: images/superb-neptune.png
+    image: images/model800.png
   - section_id: Features
     title: Services
     subtitle: What services do we actually provide?
