@@ -125,7 +125,7 @@ seo:
         increasing traffic, creating awareness and earning more, consistently
         and long-term.
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /_static/app-assets/oculi350x100.png
       relativeUrl: true
 layout: landing
 ---
