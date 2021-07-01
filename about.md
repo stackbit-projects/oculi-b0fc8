@@ -31,23 +31,20 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Don't make the mistake and think we are a so called "camgirl-studio". Because we are not.
+Don't make the mistake and think we are a so called "camgirl-studio". Because we are not. 
 
-We are a marketing & management agency that focuses on working with adult-models.
-Also, we work together. There is no weird employer/employee relationship.
-We both have obligations to work together successfully. 
+You'll be treated as a cooperation-partner - we work together and both benefit from it. There is no weird employer/employee relationship. 
 
-But don't forget:
 
-*   We do NOT require a work schedule from you.
 
-*   We do NOT demand a minimum of workhours.
 
 *   We do NOT own your accounts.
 
 *   We do NOT own your content.
 
 *   We do NOT lock you into a contract where you can't get out.
+
+*   We do NOT require a work schedule from you.
 
 *   You are a freelancer, so work whenever you want and how many hours you want.
 
@@ -57,35 +54,8 @@ But don't forget:
 
 
 
+We are a marketing & management agency that focuses on working with adult-models.
+Also, we work together. 
+We both have obligations to work together successfully.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*   But don't forget:
