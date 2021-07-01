@@ -36,7 +36,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/undraw_Operating_system_re_iqsc.svg
+        image: images/undraw_Operating_system_re_iqsc (1).svg
       - title: Tailored Growth Plans
         content: >
           With our marketing plans and strategies, we enable you to get your
