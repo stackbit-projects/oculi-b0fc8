@@ -48,7 +48,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/3.jpg
+        image: images/undraw_growth_chart_r99m.svg
     type: section_features
   - section_id: call-to-action
     type: section_cta
