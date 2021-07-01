@@ -31,31 +31,19 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Don't make the mistake and think we are a so called "camgirl-studio". Because we are not. 
+Don't make the mistake and think we are a so called "camgirl-studio". Because we are not. We are a marketing & management agency that works with adult-models.
 
-You'll be treated as a cooperation-partner - we work together and both benefit from it. There is no weird employer/employee relationship. 
+You'll be treated as a cooperation-partner - we work together and both benefit from it. There is no weird employer/employee relationship.
 
+That means:
 
+*   We do NOT own your accounts. And never will be.
 
+*   We do NOT own your content. And never will be.
 
-*   We do NOT own your accounts.
+*   We do NOT lock you into a contract where you can't get out. You can stop the cooperation anytime if you are unhappy. 
 
-*   We do NOT own your content.
-
-*   We do NOT lock you into a contract where you can't get out.
-
-*   We do NOT require a work schedule from you.
-
-*   You are a freelancer, so work whenever you want and how many hours you want.
-
-*   You are a personal brand, we are a marketing agency. You own your accounts, forever.
-
-*   You perform in front of the camera, so you have the media rights for your content.
+*   We do NOT require a work schedule from you. W
 
 
 
-We are a marketing & management agency that focuses on working with adult-models.
-Also, we work together. 
-We both have obligations to work together successfully.
-
-*   But don't forget:
