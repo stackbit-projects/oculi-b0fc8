@@ -1,7 +1,7 @@
 ---
 title: What are we?
 subtitle: And what are we not?
-image: images/11_thumb.jpg
+image: images/undraw_work_together_h63l.svg
 image_alt: Team members in a conference room
 seo:
   title: About Us
