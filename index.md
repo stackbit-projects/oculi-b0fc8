@@ -28,7 +28,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/undraw_content_team_3epn.svg
+        image: images/undraw_content_team_3epn (1).svg
       - title: Brand and Account Management
         content: >
           We take care of all of it and you can outsource the whole process to
